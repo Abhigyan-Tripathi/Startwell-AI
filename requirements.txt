@@ -1,0 +1,24 @@
+# Multi‑agent orchestration
+langgraph
+
+# Vector embeddings & database
+sentence-transformers
+chromadb
+
+# LLM access
+transformers
+torch
+
+# Web UI
+streamlit
+streamlit-aggrid
+
+# Data handling & scheduling
+pandas
+apscheduler
+
+#environment variable management
+python-dotenv
+
+#graph visualization
+ipython
